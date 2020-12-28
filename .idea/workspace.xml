@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4608b21b-b5ac-4297-9aa3-9ccf1805e3e2" name="Default Changelist" comment="IDEA提交到本地仓库">
+      <change afterPath="$PROJECT_DIR$/../Repositories/authz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/authz-windows" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/conf/authz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/conf/passwd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/conf/svnserve.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/db/current" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/db/format" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/db/fs-type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/db/fsfs.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/db/min-unpacked-rev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/db/rep-cache.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/db/revprops/0/0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/db/revprops/0/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/db/revs/0/0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/db/revs/0/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/db/txn-current" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/db/txn-current-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/db/uuid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/db/write-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/format" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/hooks/post-commit.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/hooks/post-lock.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/hooks/post-revprop-change.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/hooks/post-unlock.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/hooks/pre-commit.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/hooks/pre-lock.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/hooks/pre-revprop-change.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/hooks/pre-unlock.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/hooks/start-commit.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/locks/db-logs.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheFirstTry/locks/db.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/conf/authz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/conf/passwd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/conf/svnserve.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/dav/activities.d/c3aae634ca5aa0addcd73967c63a436f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/current" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/format" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/fs-type" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/fsfs.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/min-unpacked-rev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/rep-cache.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revprops/0/0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revprops/0/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revprops/0/10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revprops/0/11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revprops/0/12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revprops/0/2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revprops/0/3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revprops/0/4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revprops/0/5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revprops/0/6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revprops/0/7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revprops/0/8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revprops/0/9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revs/0/0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revs/0/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revs/0/10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revs/0/11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revs/0/12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revs/0/2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revs/0/3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revs/0/4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revs/0/5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revs/0/6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revs/0/7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revs/0/8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/revs/0/9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/changes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/next-ids" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node.0.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node.0.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._0.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._0.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._10.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._10.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._13.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._13.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._15.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._15.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._17.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._17.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._19.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._19.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1b.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1b.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1d.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1d.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1e.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1e.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1g.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1g.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1i.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1i.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1l.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1l.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1n.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1n.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1o.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1o.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1q.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1t.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1t.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1u.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1u.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1w.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._1z.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._21.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._21.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._22.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._22.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._24.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._24.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._27.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._27.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._29.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._29.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2b.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2b.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2d.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2d.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2e.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2h.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2j.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2j.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2k.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2k.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2m.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2p.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2r.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2t.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2t.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2u.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2u.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2w.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._2z.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._31.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._33.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._35.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._37.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._39.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._39.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3a.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3a.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3c.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3c.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3f.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3f.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3h.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3h.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3j.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3j.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3l.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3l.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3n.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3n.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3p.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3p.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3r.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3r.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3t.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3t.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._3v.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._5.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._5.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._7.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._7.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._9.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._9.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._b.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._d.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._d.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._f.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._f.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._h.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._h.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._j.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._j.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._k.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._k.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._m.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._m.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._p.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._p.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._r.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._r.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._t.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._v.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._v.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._x.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._x.0.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._z.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/node._z.0.children" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/transactions/11-c.txn/props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/txn-current" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/txn-current-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/txn-protorevs/11-c.rev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/txn-protorevs/11-c.rev-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/uuid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/db/write-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/format" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/hooks/post-commit.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/hooks/post-lock.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/hooks/post-revprop-change.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/hooks/post-unlock.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/hooks/pre-commit.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/hooks/pre-lock.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/hooks/pre-revprop-change.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/hooks/pre-unlock.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/hooks/start-commit.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/locks/db-logs.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/gxTheSecondTry/locks/db.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/htpasswd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repositories/server.pid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10212.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/F0(F${KY[)218UN{T[(T0~L.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Repositories" />
+  </component>
+  <component name="ProjectId" id="1m0zTaVNuWDRPWjCEaD6wufdmxn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder5" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth0" value="242" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth1" value="242" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth2" value="243" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth3" value="242" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth4" value="243" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth5" value="242" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder5" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth0" value="242" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth1" value="242" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth2" value="243" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth3" value="242" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth4" value="243" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth5" value="242" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Repositories" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\fogging\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\thePortOfuse\gxTheSecondTry" />
+          <option name="myCopyRoot" value="E:\thePortOfuse\gxTheSecondTry" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\thePortOfuse\gxTheSecondTry" />
+          <option name="myCopyRoot" value="E:\thePortOfuse\gxTheSecondTry" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4608b21b-b5ac-4297-9aa3-9ccf1805e3e2" name="Default Changelist" comment="" />
+      <created>1608645304839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608645304839</updated>
+      <workItem from="1608645306215" duration="1179000" />
+      <workItem from="1609156486897" duration="734000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1608646324418</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608646324418</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IDEA提交到本地仓库" />
+    <option name="LAST_COMMIT_MESSAGE" value="IDEA提交到本地仓库" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="510" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608645793759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1608645793759" />
+    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1609157192138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1609157192138" />
+    <state x="549" y="102" key="FileChooserDialogImpl" timestamp="1609156964723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="102" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609156964723" />
+    <state x="408" y="115" key="NewModule_or_Project.wizard" timestamp="1608645349640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="115" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1608645349640" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1609157233173">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609157233173" />
+    <state x="581" y="251" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609157042907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="581" y="251" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1609157042907" />
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1608645758735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1608645758735" />
+  </component>
+</project>
